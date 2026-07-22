@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+stroke_prediction_ml.egg-info/PKG-INFO
+stroke_prediction_ml.egg-info/SOURCES.txt
+stroke_prediction_ml.egg-info/dependency_links.txt
+stroke_prediction_ml.egg-info/requires.txt
+stroke_prediction_ml.egg-info/top_level.txt
