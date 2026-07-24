@@ -6,4 +6,4 @@ Dataset:
 Stroke Prediction Dataset from Kaggle
 
 Download:
-https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data
